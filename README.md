@@ -5,7 +5,7 @@
 > #### 表格
 
 ### 1. 图片
-> [吉大校徽]([https://img0.baidu.com/it/u=4196542724,1829268828&fm=253&fmt=auto&app=120&f=JPEG?w=916&h=500](https://img0.baidu.com/it/u=2148178488,1636026253&fm=253&fmt=auto&app=138&f=JPEG?w=208&h=208))
+> [吉大校徽](jlu.png)
 ### 2. 链接
 > [吉大鼎新楼](https://img0.baidu.com/it/u=4196542724,1829268828&fm=253&fmt=auto&app=120&f=JPEG?w=916&h=500)
 ### 3. 表格
